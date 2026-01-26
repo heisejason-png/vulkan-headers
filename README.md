@@ -50,3 +50,4 @@ Updates to this repository which correspond to a new Vulkan specification releas
 **Note**: Marked version releases have undergone thorough testing but do not imply the same quality level as SDK tags. SDK tags follow the `vulkan-sdk-<`_`version`_`>.<`_`patch`_`>` format (e.g., `vulkan-sdk-1.3.266.0`).
 
 This scheme was adopted following the `1.3.266` Vulkan specification release.
+Created by Jason Scott Heise
