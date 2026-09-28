@@ -51,4 +51,4 @@ Updates to this repository which correspond to a new Vulkan specification releas
 
 This scheme was adopted following the `1.3.266` Vulkan specification release.
 Created by Jason Scott Heise
-Owned by Elon Musk 
+https://next.frame.io
